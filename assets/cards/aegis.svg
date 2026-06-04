@@ -1,0 +1,20 @@
+<svg width="640" height="200" viewBox="0 0 640 200" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI', Helvetica, Arial, sans-serif">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="640" y2="200" gradientUnits="userSpaceOnUse"><stop stop-color="#2a1012"/><stop offset="1" stop-color="#0f172a"/></linearGradient></defs>
+  <rect width="640" height="200" rx="16" fill="url(#bg)"/>
+  <rect x="1" y="1" width="638" height="198" rx="15" fill="none" stroke="#ef4444" stroke-opacity="0.35" stroke-width="2"/>
+  <rect x="16" y="22" width="6" height="156" rx="3" fill="#ef4444"/>
+  <rect x="38" y="26" width="54" height="54" rx="13" fill="#3a1418" stroke="#ef4444" stroke-opacity="0.6"/>
+  <text x="65" y="62" font-size="26" font-weight="800" fill="#f87171" text-anchor="middle">A</text>
+  <text x="108" y="50" font-size="25" font-weight="800" fill="#ffffff">AEGIS Live</text>
+  <text x="108" y="73" font-size="13" font-weight="600" fill="#f87171" letter-spacing="1">REAL-TIME STREAMING AML</text>
+  <rect x="506" y="28" width="110" height="26" rx="13" fill="#3a1418" stroke="#ef4444" stroke-opacity="0.5"/>
+  <text x="600" y="45" font-size="12" font-weight="700" fill="#fca5a5" text-anchor="end">ms-class p95</text>
+  <text x="40" y="116" font-size="14.5" fill="#94a3b8">Scores live Bitcoin-mempool transactions for laundering risk the</text>
+  <text x="40" y="138" font-size="14.5" fill="#94a3b8">instant they arrive. Subgraph-explained alerts, LLM-drafted SARs.</text>
+  <g font-size="12.5" font-weight="600">
+    <rect x="40" y="158" width="84" height="26" rx="13" fill="#2a1518"/><text x="82" y="175" fill="#9ca3af" text-anchor="middle">Streaming</text>
+    <rect x="132" y="158" width="56" height="26" rx="13" fill="#2a1518"/><text x="160" y="175" fill="#9ca3af" text-anchor="middle">AML</text>
+    <rect x="196" y="158" width="64" height="26" rx="13" fill="#2a1518"/><text x="228" y="175" fill="#9ca3af" text-anchor="middle">Graph</text>
+    <rect x="268" y="158" width="92" height="26" rx="13" fill="#2a1518"/><text x="314" y="175" fill="#9ca3af" text-anchor="middle">WebSocket</text>
+  </g>
+</svg>

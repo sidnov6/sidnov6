@@ -1,0 +1,23 @@
+<svg width="1280" height="320" viewBox="0 0 1280 320" fill="none" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI', Helvetica, Arial, sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="320" gradientUnits="userSpaceOnUse"><stop stop-color="#0b1220"/><stop offset="0.55" stop-color="#0f172a"/><stop offset="1" stop-color="#111c33"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#22d3ee"/><stop offset="0.5" stop-color="#6366f1"/><stop offset="1" stop-color="#a855f7"/></linearGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#ffffff"/><stop offset="1" stop-color="#cbd5e1"/></linearGradient>
+  </defs>
+  <rect width="1280" height="320" rx="20" fill="url(#bg)"/>
+  <rect x="2" y="2" width="1276" height="316" rx="18" fill="none" stroke="#1e293b" stroke-width="2"/>
+  <g opacity="0.6" stroke-linecap="round">
+    <rect x="890" y="150" width="20" height="44" rx="3" fill="#10b981"/><rect x="940" y="120" width="20" height="80" rx="3" fill="#22d3ee"/><rect x="990" y="110" width="20" height="60" rx="3" fill="#ef4444"/><rect x="1040" y="130" width="20" height="86" rx="3" fill="#6366f1"/><rect x="1090" y="95" width="20" height="70" rx="3" fill="#10b981"/><rect x="1140" y="120" width="20" height="74" rx="3" fill="#a855f7"/>
+  </g>
+  <polyline points="880,180 940,150 1000,140 1050,150 1100,110 1160,125" fill="none" stroke="url(#accent)" stroke-width="3" opacity="0.9"/><circle cx="1160" cy="125" r="5" fill="#22d3ee"/>
+  <text x="64" y="120" font-size="58" font-weight="800" fill="url(#name)">Siddharth Jain</text>
+  <rect x="66" y="138" width="120" height="5" rx="2.5" fill="url(#accent)"/>
+  <text x="64" y="186" font-size="26" font-weight="600" fill="#38bdf8">AI / ML Engineer  &#8594;  GenAI &amp; Agentic Systems for Finance</text>
+  <text x="64" y="224" font-size="18" fill="#94a3b8">Risk &#183; RegTech &#183; Fraud &#183; Capital Markets   |   Deterministic math &#183; citation-grounded &#183; human-gated</text>
+  <g font-size="14" font-weight="600">
+    <rect x="64" y="250" width="118" height="30" rx="15" fill="#0e2a3a" stroke="#22d3ee" stroke-opacity="0.5"/><text x="123" y="270" fill="#7dd3fc" text-anchor="middle">Agentic AI</text>
+    <rect x="192" y="250" width="92" height="30" rx="15" fill="#1e1b4b" stroke="#6366f1" stroke-opacity="0.5"/><text x="238" y="270" fill="#a5b4fc" text-anchor="middle">LLM &#183; RAG</text>
+    <rect x="294" y="250" width="132" height="30" rx="15" fill="#0f2e22" stroke="#10b981" stroke-opacity="0.5"/><text x="360" y="270" fill="#6ee7b7" text-anchor="middle">Credit &amp; Market Risk</text>
+    <rect x="436" y="250" width="96" height="30" rx="15" fill="#2a1530" stroke="#a855f7" stroke-opacity="0.5"/><text x="484" y="270" fill="#d8b4fe" text-anchor="middle">CFA L1</text>
+  </g>
+</svg>
