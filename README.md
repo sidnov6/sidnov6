@@ -8,10 +8,13 @@ I'm an **AI/ML Engineer** building **GenAI and agentic systems for finance** —
 
 I don't just prototype — I ship full, end-to-end systems engineered to **bank-grade** standards: leakage-safe modeling, deterministic math, citation-grounded reasoning, eval-as-CI-gate, and human approval gates. My north star is **AI agents that actually understand finance**, where every number is computed, every claim is sourced, and a human holds the final gate. Currently a **CFA Level 1 candidate**.
 
-If you only open one project, start with **[CreditForge](https://github.com/sidnov6/CreditForge)** (it has a live demo) or **[QUORUM](https://github.com/sidnov6/quorum-investment-committee)**.
+If you only open one project, start with **[PRAETOR](https://github.com/sidnov6/praetor)** (3D globe + 9 live AI agents, [live demo](https://sidnov6-praetor.hf.space)), **[CreditForge](https://github.com/sidnov6/CreditForge)**, or **[QUORUM](https://github.com/sidnov6/quorum-investment-committee)**.
 
 ### 🚀 Flagship Projects — Finance × AI
 
+<p align="center">
+  <a href="https://github.com/sidnov6/praetor" target="_blank"><img src="./assets/cards/praetor.svg" alt="PRAETOR — agentic M&A due-diligence engine" width="62%" /></a>
+</p>
 <p align="center">
   <a href="https://github.com/sidnov6/CreditForge" target="_blank"><img src="./assets/cards/creditforge.svg" alt="CreditForge — bank-grade credit risk" width="49%" /></a>
   <a href="https://github.com/sidnov6/quorum-investment-committee" target="_blank"><img src="./assets/cards/quorum.svg" alt="QUORUM — AI investment committee" width="49%" /></a>
