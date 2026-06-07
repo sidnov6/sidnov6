@@ -31,6 +31,14 @@ If you only open one project, start with **[PRAETOR](https://github.com/sidnov6/
   <a href="https://github.com/sidnov6/aeolus-fleet-brain" target="_blank"><img src="./assets/cards/aeolus.svg" alt="AEOLUS — renewable fleet operations brain" width="49%" /></a>
 </p>
 
+### 🧬 Healthcare × Agentic AI
+
+<p align="center">
+  <a href="https://github.com/sidnov6/CADUCEUS" target="_blank"><img src="./assets/cards/caduceus.svg" alt="CADUCEUS — virtual molecular tumor board" width="62%" /></a>
+</p>
+
+*Born from my time at the **Wallace H. Coulter Department of Biomedical Engineering** — a multi-agent **molecular tumor board**: 55+ specialist agents across 7 layers deliberate over a multimodal oncology case and return a fully-cited, guideline-concordant recommendation with **documented dissent** and a human on the final gate. Runs offline on synthetic cases, or **live on a real de-identified TCGA patient** (variants → CIViC, drugs → openFDA, trials → ClinicalTrials.gov, literature → Europe PMC). **No API keys — keyless and free.** [Live demo](https://sidnov6-caduceus.hf.space).*
+
 > ⚠️ **Live demos run on free-tier LLM keys** (hard rate limits + daily token caps). They're built for a quick walkthrough, not load-testing — if a demo throttles or returns a 429, that's the free quota, not the architecture. The full code is here on GitHub.
 
 ### 🛠️ Tech Stack
