@@ -1,13 +1,5 @@
 <p align="center">
-<img src="./assets/banner.svg" alt="Siddharth Jain — AI/ML Engineer for Finance" width="100%" />
-</p>
-
-<p align="center">
-<strong>AI/ML Engineer</strong> &nbsp;·&nbsp; GenAI &amp; Agentic Systems for Finance
-</p>
-
-<p align="center">
-<sub>Risk &nbsp;·&nbsp; RegTech &nbsp;·&nbsp; Fraud &nbsp;·&nbsp; Capital Markets &nbsp;—&nbsp; citation-grounded &nbsp;·&nbsp; deterministic &nbsp;·&nbsp; human-gated</sub>
+<img src="./assets/banner.png" alt="Siddharth Jain — Agentic AI Engineer for Finance" width="100%" />
 </p>
 
 <p align="center">
