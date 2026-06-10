@@ -12,6 +12,7 @@
 
 <p align="center">
 <a href="https://github.com/sidnov6/praetor">PRAETOR</a> &nbsp;·&nbsp;
+<a href="https://github.com/sidnov6/DELPHI">DELPHI</a> &nbsp;·&nbsp;
 <a href="https://github.com/sidnov6/CreditForge">CreditForge</a> &nbsp;·&nbsp;
 <a href="https://github.com/sidnov6/quorum-investment-committee">QUORUM</a> &nbsp;·&nbsp;
 <a href="https://github.com/sidnov6/CADUCEUS">CADUCEUS</a>
@@ -25,7 +26,7 @@ I'm an **AI/ML Engineer** building **GenAI and agentic systems for finance** —
 
 I don't just prototype — I ship full, end-to-end systems engineered to **bank-grade** standards: leakage-safe modeling, deterministic math, citation-grounded reasoning, eval-as-CI-gate, and human approval gates. My north star is **AI agents that actually understand finance**, where every number is computed, every claim is sourced, and a human holds the final gate. Currently a **CFA Level 1 candidate**.
 
-If you only open one project, start with **[PRAETOR](https://github.com/sidnov6/praetor)** (3D globe + 9 live AI agents, [live demo](https://sidnov6-praetor.hf.space)), **[CreditForge](https://github.com/sidnov6/CreditForge)**, or **[QUORUM](https://github.com/sidnov6/quorum-investment-committee)**.
+If you only open one project, start with **[PRAETOR](https://github.com/sidnov6/praetor)** (3D globe + 9 live AI agents, [live demo](https://sidnov6-praetor.hf.space)) or **[DELPHI](https://github.com/sidnov6/DELPHI)** (a 7-agent equity-research debate, [live demo](https://sidnov6-delphi.hf.space)) — then **[CreditForge](https://github.com/sidnov6/CreditForge)** and **[QUORUM](https://github.com/sidnov6/quorum-investment-committee)**.
 
 ---
 
@@ -33,6 +34,9 @@ If you only open one project, start with **[PRAETOR](https://github.com/sidnov6/
 
 <p align="center">
 <a href="https://github.com/sidnov6/praetor" target="_blank"><img src="./assets/cards/praetor.svg" alt="PRAETOR — agentic M&A due-diligence engine" width="62%" /></a>
+</p>
+<p align="center">
+<a href="https://github.com/sidnov6/DELPHI" target="_blank"><img src="./assets/cards/delphi.svg" alt="DELPHI — multi-agent equity research debate" width="62%" /></a>
 </p>
 <p align="center">
 <a href="https://github.com/sidnov6/CreditForge" target="_blank"><img src="./assets/cards/creditforge.svg" alt="CreditForge — bank-grade credit risk" width="49%" /></a>
