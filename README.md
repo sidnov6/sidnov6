@@ -25,10 +25,8 @@ If you only open one project, start with **[PRAETOR](https://github.com/sidnov6/
 ### 🚀 Flagship Projects — Finance × AI
 
 <p align="center">
-<a href="https://github.com/sidnov6/praetor" target="_blank"><img src="./assets/cards/praetor.svg" alt="PRAETOR — agentic M&A due-diligence engine" width="62%" /></a>
-</p>
-<p align="center">
-<a href="https://github.com/sidnov6/DELPHI" target="_blank"><img src="./assets/cards/delphi.svg" alt="DELPHI — multi-agent equity research debate" width="62%" /></a>
+<a href="https://github.com/sidnov6/praetor" target="_blank"><img src="./assets/cards/praetor.svg" alt="PRAETOR — agentic M&A due-diligence engine" width="49%" /></a>
+<a href="https://github.com/sidnov6/DELPHI" target="_blank"><img src="./assets/cards/delphi.svg" alt="DELPHI — multi-agent equity research debate" width="49%" /></a>
 </p>
 <p align="center">
 <a href="https://github.com/sidnov6/CreditForge" target="_blank"><img src="./assets/cards/creditforge.svg" alt="CreditForge — bank-grade credit risk" width="49%" /></a>
@@ -53,7 +51,7 @@ If you only open one project, start with **[PRAETOR](https://github.com/sidnov6/
 ### 🧬 Healthcare × Agentic AI
 
 <p align="center">
-<a href="https://github.com/sidnov6/CADUCEUS" target="_blank"><img src="./assets/cards/caduceus.svg" alt="CADUCEUS — virtual molecular tumor board" width="62%" /></a>
+<a href="https://github.com/sidnov6/CADUCEUS" target="_blank"><img src="./assets/cards/caduceus.svg" alt="CADUCEUS — virtual molecular tumor board" width="49%" /></a>
 </p>
 
 *Born from my time at the **Wallace H. Coulter Department of Biomedical Engineering** — a multi-agent **molecular tumor board**: 55+ specialist agents across 7 layers deliberate over a multimodal oncology case and return a fully-cited, guideline-concordant recommendation with **documented dissent** and a human on the final gate. Runs offline on synthetic cases, or **live on a real de-identified TCGA patient** (variants → CIViC, drugs → openFDA, trials → ClinicalTrials.gov, literature → Europe PMC). **No API keys — keyless and free.** [Live demo](https://sidnov6-caduceus.hf.space).*
