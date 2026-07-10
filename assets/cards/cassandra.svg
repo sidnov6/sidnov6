@@ -1,0 +1,20 @@
+<svg width="640" height="200" viewBox="0 0 640 200" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI', Helvetica, Arial, sans-serif">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="640" y2="200" gradientUnits="userSpaceOnUse"><stop stop-color="#261507"/><stop offset="1" stop-color="#0f172a"/></linearGradient></defs>
+  <rect width="640" height="200" rx="16" fill="url(#bg)"/>
+  <rect x="1" y="1" width="638" height="198" rx="15" fill="none" stroke="#f97316" stroke-opacity="0.35" stroke-width="2"/>
+  <rect x="16" y="22" width="6" height="156" rx="3" fill="#f97316"/>
+  <rect x="38" y="26" width="54" height="54" rx="13" fill="#33200a" stroke="#f97316" stroke-opacity="0.6"/>
+  <text x="65" y="62" font-size="26" font-weight="800" fill="#fb923c" text-anchor="middle">C</text>
+  <text x="108" y="50" font-size="25" font-weight="800" fill="#ffffff">CASSANDRA</text>
+  <text x="108" y="73" font-size="13" font-weight="600" fill="#fb923c" letter-spacing="1">FORENSIC ACCOUNTING INTELLIGENCE &#183; SEC EDGAR</text>
+  <rect x="508" y="28" width="108" height="26" rx="13" fill="#33200a" stroke="#f97316" stroke-opacity="0.5"/>
+  <text x="600" y="45" font-size="12" font-weight="700" fill="#fdba74" text-anchor="end">POINT-IN-TIME</text>
+  <text x="40" y="116" font-size="14.5" fill="#94a3b8">Point-in-time manipulation scoring over SEC filings &#8212; forensic red</text>
+  <text x="40" y="138" font-size="14.5" fill="#94a3b8">flags, agentic evidence dossiers, autonomous filing surveillance.</text>
+  <g font-size="12.5" font-weight="600">
+    <rect x="40" y="158" width="100" height="26" rx="13" fill="#261c0f"/><text x="90" y="175" fill="#9ca3af" text-anchor="middle">Forensic ML</text>
+    <rect x="148" y="158" width="98" height="26" rx="13" fill="#261c0f"/><text x="197" y="175" fill="#9ca3af" text-anchor="middle">SEC EDGAR</text>
+    <rect x="254" y="158" width="92" height="26" rx="13" fill="#261c0f"/><text x="300" y="175" fill="#9ca3af" text-anchor="middle">LangGraph</text>
+    <rect x="354" y="158" width="76" height="26" rx="13" fill="#261c0f"/><text x="392" y="175" fill="#9ca3af" text-anchor="middle">FastAPI</text>
+  </g>
+</svg>
