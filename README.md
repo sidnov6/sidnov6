@@ -6,12 +6,16 @@
 
 I'm an **AI/ML Engineer** building **GenAI and agentic systems for finance** — risk, RegTech, fraud, and capital markets. I spent a year shipping enterprise AI in manufacturing (10 plants, 300+ daily users), and I'm now **all-in on Finance × AI**.
 
-I don't just prototype — I ship full, end-to-end systems engineered to **bank-grade** standards: leakage-safe modeling, deterministic math, citation-grounded reasoning, eval-as-CI-gate, and human approval gates. My north star is **AI agents that actually understand finance**, where every number is computed, every claim is sourced, and a human holds the final gate. Currently a **CFA Level 1 candidate**.
+I don't just prototype — I ship full, end-to-end systems engineered to **bank-grade** standards: leakage-safe modeling, deterministic math, citation-grounded reasoning, eval-as-CI-gate, and human approval gates. My north star is **AI agents that actually understand finance**, where every number is computed, every claim is sourced, and a human holds the final gate.
 
 If you only open one project, start with **[CreditForge](https://github.com/sidnov6/CreditForge)** (it has a live demo) or **[QUORUM](https://github.com/sidnov6/quorum-investment-committee)**.
 
 ### 🧭 Currently Building — Latest Systems
 
+<p align="center">
+  <a href="https://github.com/sidnov6/filingscope" target="_blank"><img src="./assets/cards/filingscope.svg" alt="FilingScope — deterministic SEC financial intelligence" width="49%" /></a>
+</p>
+<p align="center"><a href="https://sidnov6-filingscope.hf.space/">Live workstation ↗</a></p>
 <p align="center">
   <a href="https://github.com/sidnov6/cassandra" target="_blank"><img src="./assets/cards/cassandra.svg" alt="CASSANDRA — forensic accounting intelligence over SEC filings" width="49%" /></a>
   <a href="https://github.com/sidnov6/trident" target="_blank"><img src="./assets/cards/trident.svg" alt="TRIDENT — real-time maritime chokepoint intelligence" width="49%" /></a>

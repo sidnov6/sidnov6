@@ -18,6 +18,6 @@
     <rect x="64" y="250" width="118" height="30" rx="15" fill="#0e2a3a" stroke="#22d3ee" stroke-opacity="0.5"/><text x="123" y="270" fill="#7dd3fc" text-anchor="middle">Agentic AI</text>
     <rect x="192" y="250" width="92" height="30" rx="15" fill="#1e1b4b" stroke="#6366f1" stroke-opacity="0.5"/><text x="238" y="270" fill="#a5b4fc" text-anchor="middle">LLM &#183; RAG</text>
     <rect x="294" y="250" width="132" height="30" rx="15" fill="#0f2e22" stroke="#10b981" stroke-opacity="0.5"/><text x="360" y="270" fill="#6ee7b7" text-anchor="middle">Credit &amp; Market Risk</text>
-    <rect x="436" y="250" width="96" height="30" rx="15" fill="#2a1530" stroke="#a855f7" stroke-opacity="0.5"/><text x="484" y="270" fill="#d8b4fe" text-anchor="middle">CFA L1</text>
+    <rect x="436" y="250" width="96" height="30" rx="15" fill="#2a1530" stroke="#a855f7" stroke-opacity="0.5"/><text x="484" y="270" fill="#d8b4fe" text-anchor="middle">SEC Data</text>
   </g>
 </svg>
